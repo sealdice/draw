@@ -1,0 +1,224 @@
+{
+  "曲子": [ "\n这位摘星人,你随机到的曲目是\n{速度},\n{Arcaea曲包}" ],
+  "Arcaea曲包": [
+    "Memory Archive曲包\n{Memory Archive曲目}",
+    "Eternal Core曲包\n{Eternal Core曲目}",
+    "Memory Archive曲包\n{Memory Archive曲目}",
+    "Eternal Core曲包\n{Eternal Core曲目}",
+    "Memory Archive曲包\n{Memory Archive曲目}",
+    "Eternal Core曲包\n{Eternal Core曲目}",
+    "Crimson Solace曲包\n{Crimson Solace曲目}",
+    "Dynamix Collaboration曲包\n{Dynamix Collaboration曲目}",
+    "Ambivalent Vision曲包\n{Ambivalent Vision曲目}",
+    "Vicious Labyrinth曲包\n{Vicious Labyrinth曲目}",
+    "Vicious Labyrinth曲包\n{Vicious Labyrinth曲目}",
+    "Luminous Sky曲包\n{Luminous Sky曲目}",
+    "Lanota Collaboration曲包\n{Lanota Collaboration曲目}",
+    "Binary Enfold曲包\n{Binary Enfold曲目}",
+    "Luminous Sky曲包\n{Luminous Sky曲目}",
+    "Tone Sphere Collaboration曲包\n{Tone Sphere Collaboration曲目}",
+    "Groove Coaster Collaboration曲包\n{Groove Coaster Collaboration曲目}",
+    "Absolute Reason曲包\n{Absolute Reason曲目}",
+    "CHUNITHM Collaboration曲包\n{CHUNITHM Collaboration曲目}",
+    "Adverse Prelude曲包\n{Adverse Prelude曲目}",
+    "愚人节单曲\n{愚人节单曲}",
+    "Arcaea曲包\n{Arcaea曲目}",
+    "Arcaea曲包\n{Arcaea曲目}"
+
+  ],
+  "速度": [ "1速", "2速", "3速", "4速", "5速", "6速", "6.5速" ],
+  "Memory Archive曲目": [
+    "Auxesia",
+    "DataError",
+    "impure Bird",
+    "Modelista",
+    "Metallic Punisher",
+    "Your voice so... feat. Such",
+    "Call My Name feat. Yukacco",
+    "carmine:scythe",
+    "Be There",
+    "dropdead",
+    "Fallenspuare",
+    "Alexandrite",
+    "Astral tale",
+    "Phantasia",
+    "Empire of Winter",
+    "Libertas",
+    "Dot to Dot feat.. shhully",
+    "Dreadnought",
+    "Mirzam",
+    "Surrender",
+    "Yosakure Fubuki",
+    "Heavenly caress"
+  ],
+  "Eternal Core曲目": [
+    "cry for viyella",
+    "l've heard it that",
+    "Lumia",
+    "memoryfactory.izh",
+    "Relentless",
+    "Essence of Twilight",
+    "PRAGMATISM",
+    "Sheriruth",
+    "Solitary Dream"
+  ],
+  "Crimson Solace曲目": [
+    "Paradise",
+    "Flashback",
+    "Flyburg and Endroll",
+    "Party Vinyl",
+    "Nirv LucE",
+    "GLORY：ROAD"
+
+  ],
+  "Dynamix Collaboration曲目": [
+    "Moonlight of Sand Castle",
+    "Evoltex(poppi'n mix)",
+    "REconstruction",
+    "Oracle",
+    "αterlβus"
+  ],
+  "Ambivalent Vision曲目": [
+    "Blossoms",
+    "Romance Wars",
+    "Moonheart",
+    "Genesis",
+    "Lethaeus"
+  ],
+  "Vicious Labyrinth曲目": [
+    "Iconolast",
+    "SOUNDWiTCH",
+    "trappola bewitching",
+    "conflict",
+    "Axium Crisis",
+    "Grievous Lady"
+
+  ],
+  "Lanota Collaboration曲目": [
+    "Dream goes on",
+    "Journey",
+    "Specta",
+    "Quon",
+    "cyanine"
+  ],
+  "Binary Enfold曲目": [
+    "next to you",
+    "Silent Rush",
+    "Strongholds",
+    "Memory Forest",
+    "Singularity"
+  ],
+  "Luminous Sky曲目": [
+    "Maze No.9",
+    "Sulfur",
+    "The Message",
+    "Halcyon",
+    "Ether Strike",
+    "Fracture Ray"
+  ],
+  "Tone Sphere Collaboration曲目": [
+    "Hall of Mirrors",
+    "Hikari",
+    "STAGER(ALL STAGE CLEAR)",
+    "Linear Accelerator",
+    "Tiferet"
+
+
+  ],
+  "Groove Coaster Collaboration曲目": [
+    "MERLIN",
+    "OMAKENO Stroke",
+    "DX Choseinou Full Metal Shojo",
+    "Scarlet Lance",
+    "ouroboros -twin stroke of the end-"
+
+
+  ],
+  "Absolute Reason曲目": [
+    "Antithese",
+    "Corruption",
+    "Black Territory",
+    "Vicious Heroism",
+    "Cyaegha"
+  ],
+  "CHUNITHM Collaboration曲目": [
+    "Garakuta Doll Play",
+    "Ikazuchi",
+    "World Vanquisher"
+  ],
+  "Adverse Prelude曲目": [
+    "Particle Arts",
+    "Vindication",
+    "Heavensdoor",
+    "Ringed Genesis"
+  ],
+  "愚人节单曲": [
+    "Ignotus Afterburn",
+    "Red and Blue and Green"
+
+  ],
+  "Arcaea曲目": [
+    "Sayonara Hatsukoi",
+    "Fairytale",
+    "Vexaria",
+    "Dement ~after legend~",
+    "Brand New World",
+    "Dandelion",
+    "One Last Drive",
+    "Reinvent",
+    "Clotho and the stargazer",
+    "Infinity Heaven",
+    "Chronostasis",
+    "Rise",
+    "Snow White",
+    "Lost Civilization",
+    "Babaroque",
+    "Shades of Light in a Transcendent Realm",
+    "Kanagawa Cyber Culvert",
+    "Lucifer",
+    "Anökumene",
+    "Ignotus",
+    "harutopia ~Utopia of Spring~",
+    "GOODTEK(Arcaea Edit)",
+    "Dreamin' Attraction!!",
+    "Rabbit In The Black Room",
+    "qualia -ideaesthesia-",
+    "Red and Blue",
+    "Syro",
+    "Blaster",
+    "Cybernecia Catharsis",
+    "inkar-usi",
+    "Suomi",
+    "Bookmaker (2D Version)",
+    "Illegal Paradise",
+    "Nhelv",
+    "LunarOrbit -believe in the Espebranch road-",
+    "Purgatorium",
+    "Rugie",
+    "Grimheart",
+    "ReviXy",
+    "VECTOЯ",
+    "SUPERNOVA",
+    "Diode",
+    "FREEF4LL",
+    "Monochrome Princess"
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
