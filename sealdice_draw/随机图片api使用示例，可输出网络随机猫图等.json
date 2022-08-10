@@ -1,0 +1,27 @@
+{
+  "_title": ["随机图片系列"],
+  "_author": ["星尘"],
+  "_date": ["2022/7/26"],
+  "_version": ["1.0"],
+  "丁真": ["[CQ:image,file=https://api.aya1.top/randomdj?{%_数字}{%_数字}]"],
+  "原神": ["[CQ:image,file=https://api.dujin.org/pic/yuanshen?{%_数字}{%_数字}]"],
+  "宫崎骏": ["[CQ:image,file=https://api.dujin.org/pic/ghibli?{%_数字}{%_数字}]"],
+  "每日一图": [
+    "[CQ:image,file=https://api.tanmantang.com/api/bing.php?{%_数字}{%_数字}]"
+  ],
+  "风景": ["[CQ:image,file=https://api.ixiaowai.cn/gqapi/gqapi.php?{%_数字}{%_数字}]"],
+  "mc酱": ["[CQ:image,file=https://api.ixiaowai.cn/mcapi/mcapi.php?{%_数字}{%_数字}]"],
+  "动漫": [
+    "[CQ:image,file=https://api.paugram.com/wallpaper/?source=jsd?{%_数字}{%_数字}]",
+    "[CQ:image,file=https://api.paugram.com/wallpaper/?source=gt?{%_数字}{%_数字}]",
+    "[CQ:image,file=https://api.mtyqx.cn/api/random.php?{%_数字}{%_数字}]",
+    "[CQ:image,file=https://api.ixiaowai.cn/api/api.php?{%_数字}{%_数字}]"
+  ],
+  "科幻": ["[CQ:image,file=https://api.catyo.cn/rimg/catyorimg.php?{%_数字}{%_数字}]"],
+  "东方": ["[CQ:image,file=https://img.paulzzh.com/touhou/random?{%_数字}{%_数字}]"],
+  "猫猫": ["[CQ:image,file=http://placekitten.com/g/{_x}/{_y}]"],
+  "_x": ["[10d30+1d3+100]"],
+  "_y": ["[10d30+1d3+105]"],
+  "天气": ["点击 https://api.vvhan.com/api/ip"],
+  "_数字": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+}
